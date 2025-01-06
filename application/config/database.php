@@ -154,11 +154,9 @@ $db['default'] = array(
 	'dsn'	=> '', //http://103.228.117.98/gl/index.php/login
 
 	'hostname' => 'localhost',
-    'username' => 'root',
-    'password' => 'sentral2022**',
-    'database' => 'gl_waterco', 
-
-
+	'username' => 'root',
+	'password' => 'sentral2022**',
+	'database' => 'gl_waterco',
 	'dbdriver' => 'mysqli',
 
 	'dbprefix' => '',
@@ -191,9 +189,9 @@ $db['default'] = array(
 $db['accounting'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-    'username' => 'root',
-    'password' => 'sentral2022**',
-    'database' => 'gl_waterco', 
+	'username' => 'root',
+	'password' => 'sentral2022**',
+	'database' => 'gl_waterco',
 
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
